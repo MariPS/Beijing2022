@@ -1,0 +1,59 @@
+medal_type,medal_code,medal_date,athlete_short_name,athlete_name,athlete_sex,athlete_link,event,country,country_code,discipline,discipline_code
+Gold,1,2022-02-05 00:00:00.0,ECKHOFF T,ECKHOFF Tiril,X,../../../en/results/biathlon/athlete-profile-n1031947-tiril-eckhoff.htm,Mixed Relay 4x6km (W+M),Norway,NOR,Biathlon,BTH
+Gold,1,2022-02-05 00:00:00.0,ROEISELAND MO,ROEISELAND Marte Olsbu,X,../../../en/results/biathlon/athlete-profile-n1031950-marte-olsbu-roeiseland.htm,Mixed Relay 4x6km (W+M),Norway,NOR,Biathlon,BTH
+Gold,1,2022-02-05 00:00:00.0,BOE T,BOE Tarjei,X,../../../en/results/biathlon/athlete-profile-n1031962-tarjei-boe.htm,Mixed Relay 4x6km (W+M),Norway,NOR,Biathlon,BTH
+Gold,1,2022-02-05 00:00:00.0,BOE JT,BOE Johannes Thingnes,X,../../../en/results/biathlon/athlete-profile-n1031965-johannes-thingnes-boe.htm,Mixed Relay 4x6km (W+M),Norway,NOR,Biathlon,BTH
+Silver,2,2022-02-05 00:00:00.0,CHEVALIER-BOUCHET,CHEVALIER-BOUCHET Anais,X,../../../en/results/biathlon/athlete-profile-n1035786-anais-chevalier-bouchet.htm,Mixed Relay 4x6km (W+M),France,FRA,Biathlon,BTH
+Silver,2,2022-02-05 00:00:00.0,FILLON MAILLET Q,FILLON MAILLET Quentin,X,../../../en/results/biathlon/athlete-profile-n1035791-quentin-fillon-maillet.htm,Mixed Relay 4x6km (W+M),France,FRA,Biathlon,BTH
+Silver,2,2022-02-05 00:00:00.0,JACQUELIN E,JACQUELIN Emilien,X,../../../en/results/biathlon/athlete-profile-n1035794-emilien-jacquelin.htm,Mixed Relay 4x6km (W+M),France,FRA,Biathlon,BTH
+Silver,2,2022-02-05 00:00:00.0,SIMON J,SIMON Julia,X,../../../en/results/biathlon/athlete-profile-n1035801-julia-simon.htm,Mixed Relay 4x6km (W+M),France,FRA,Biathlon,BTH
+Bronze,3,2022-02-05 00:00:00.0,NIGMATULLINA U,NIGMATULLINA Uliana,X,../../../en/results/biathlon/athlete-profile-n1036730-uliana-nigmatullina.htm,Mixed Relay 4x6km (W+M),ROC,ROC,Biathlon,BTH
+Bronze,3,2022-02-05 00:00:00.0,REZTSOVA K,REZTSOVA Kristina,X,../../../en/results/biathlon/athlete-profile-n1036733-kristina-reztsova.htm,Mixed Relay 4x6km (W+M),ROC,ROC,Biathlon,BTH
+Bronze,3,2022-02-05 00:00:00.0,LATYPOV E,LATYPOV Eduard,X,../../../en/results/biathlon/athlete-profile-n1036742-eduard-latypov.htm,Mixed Relay 4x6km (W+M),ROC,ROC,Biathlon,BTH
+Bronze,3,2022-02-05 00:00:00.0,LOGINOV A,LOGINOV Alexander,X,../../../en/results/biathlon/athlete-profile-n1036743-alexander-loginov.htm,Mixed Relay 4x6km (W+M),ROC,ROC,Biathlon,BTH
+Gold,1,2022-02-05 00:00:00.0,JOHAUG T,JOHAUG Therese,W,../../../en/results/cross-country-skiing/athlete-profile-n1032178-therese-johaug.htm,Women's 7.5km + 7.5km Skiathlon,Norway,NOR,Cross-Country Skiing,CCS
+Silver,2,2022-02-05 00:00:00.0,NEPRYAEVA N,NEPRYAEVA Natalia,W,../../../en/results/cross-country-skiing/athlete-profile-n1036659-natalia-nepryaeva.htm,Women's 7.5km + 7.5km Skiathlon,ROC,ROC,Cross-Country Skiing,CCS
+Bronze,3,2022-02-05 00:00:00.0,STADLOBER T,STADLOBER Teresa,W,../../../en/results/cross-country-skiing/athlete-profile-n1005634-teresa-stadlober.htm,Women's 7.5km + 7.5km Skiathlon,Austria,AUT,Cross-Country Skiing,CCS
+Gold,1,2022-02-05 00:00:00.0,WALLBERG W,WALLBERG Walter,M,../../../en/results/freestyle-skiing/athlete-profile-n1035305-walter-wallberg.htm,Men's Moguls,Sweden,SWE,Freestyle Skiing,FRS
+Silver,2,2022-02-05 00:00:00.0,KINGSBURY M,KINGSBURY Mikael,M,../../../en/results/freestyle-skiing/athlete-profile-n1037602-mikael-kingsbury.htm,Men's Moguls,Canada,CAN,Freestyle Skiing,FRS
+Bronze,3,2022-02-05 00:00:00.0,HORISHIMA I,HORISHIMA Ikuma,M,../../../en/results/freestyle-skiing/athlete-profile-n1037892-ikuma-horishima.htm,Men's Moguls,Japan,JPN,Freestyle Skiing,FRS
+Gold,1,2022-02-05 00:00:00.0,WU D,WU Dajing,X,../../../en/results/short-track-speed-skating/athlete-profile-n1057882-dajing-wu.htm,Mixed Team Relay,People's Republic of China,CHN,Short Track Speed Skating,STK
+Gold,1,2022-02-05 00:00:00.0,REN Z,REN Ziwei,X,../../../en/results/short-track-speed-skating/athlete-profile-n1057883-ziwei-ren.htm,Mixed Team Relay,People's Republic of China,CHN,Short Track Speed Skating,STK
+Gold,1,2022-02-05 00:00:00.0,ZHANG Y,ZHANG Yuting,X,../../../en/results/short-track-speed-skating/athlete-profile-n1057887-yuting-zhang.htm,Mixed Team Relay,People's Republic of China,CHN,Short Track Speed Skating,STK
+Gold,1,2022-02-05 00:00:00.0,QU C,QU Chunyu,X,../../../en/results/short-track-speed-skating/athlete-profile-n1057889-chunyu-qu.htm,Mixed Team Relay,People's Republic of China,CHN,Short Track Speed Skating,STK
+Gold,1,2022-02-05 00:00:00.0,FAN K,FAN Kexin,X,../../../en/results/short-track-speed-skating/athlete-profile-n1057890-kexin-fan.htm,Mixed Team Relay,People's Republic of China,CHN,Short Track Speed Skating,STK
+Silver,2,2022-02-05 00:00:00.0,VALCEPINA M,VALCEPINA Martina,X,../../../en/results/short-track-speed-skating/athlete-profile-n1034961-martina-valcepina.htm,Mixed Team Relay,Italy,ITA,Short Track Speed Skating,STK
+Silver,2,2022-02-05 00:00:00.0,FONTANA A,FONTANA Arianna,X,../../../en/results/short-track-speed-skating/athlete-profile-n1034964-arianna-fontana.htm,Mixed Team Relay,Italy,ITA,Short Track Speed Skating,STK
+Silver,2,2022-02-05 00:00:00.0,VALCEPINA A,VALCEPINA Arianna,X,../../../en/results/short-track-speed-skating/athlete-profile-n1034967-arianna-valcepina.htm,Mixed Team Relay,Italy,ITA,Short Track Speed Skating,STK
+Silver,2,2022-02-05 00:00:00.0,CASSINELLI A,CASSINELLI Andrea,X,../../../en/results/short-track-speed-skating/athlete-profile-n1034971-andrea-cassinelli.htm,Mixed Team Relay,Italy,ITA,Short Track Speed Skating,STK
+Silver,2,2022-02-05 00:00:00.0,CONFORTOLA Y,CONFORTOLA Yuri,X,../../../en/results/short-track-speed-skating/athlete-profile-n1034972-yuri-confortola.htm,Mixed Team Relay,Italy,ITA,Short Track Speed Skating,STK
+Silver,2,2022-02-05 00:00:00.0,SIGHEL P,SIGHEL Pietro,X,../../../en/results/short-track-speed-skating/athlete-profile-n1034975-pietro-sighel.htm,Mixed Team Relay,Italy,ITA,Short Track Speed Skating,STK
+Bronze,3,2022-02-05 00:00:00.0,JASZAPATI P,JASZAPATI Petra,X,../../../en/results/short-track-speed-skating/athlete-profile-n1044439-petra-jaszapati.htm,Mixed Team Relay,Hungary,HUN,Short Track Speed Skating,STK
+Bronze,3,2022-02-05 00:00:00.0,KONYA Z,KONYA Zsofia,X,../../../en/results/short-track-speed-skating/athlete-profile-n1044446-zsofia-konya.htm,Mixed Team Relay,Hungary,HUN,Short Track Speed Skating,STK
+Bronze,3,2022-02-05 00:00:00.0,KRUEGER JH,KRUEGER John-Henry,X,../../../en/results/short-track-speed-skating/athlete-profile-n1044462-john-henry-krueger.htm,Mixed Team Relay,Hungary,HUN,Short Track Speed Skating,STK
+Bronze,3,2022-02-05 00:00:00.0,LIU S,LIU Shaoang,X,../../../en/results/short-track-speed-skating/athlete-profile-n1044470-shaoang-liu.htm,Mixed Team Relay,Hungary,HUN,Short Track Speed Skating,STK
+Bronze,3,2022-02-05 00:00:00.0,LIU SS,LIU Shaolin Sandor,X,../../../en/results/short-track-speed-skating/athlete-profile-n1044475-shaolin-sandor-liu.htm,Mixed Team Relay,Hungary,HUN,Short Track Speed Skating,STK
+Gold,1,2022-02-05 00:00:00.0,BOGATAJ U,BOGATAJ Ursa,W,../../../en/results/ski-jumping/athlete-profile-n1051176-ursa-bogataj.htm,Women's Normal Hill Individual,Slovenia,SLO,Ski Jumping,SJP
+Silver,2,2022-02-05 00:00:00.0,ALTHAUS K,ALTHAUS Katharina,W,../../../en/results/ski-jumping/athlete-profile-n1012745-katharina-althaus.htm,Women's Normal Hill Individual,Germany,GER,Ski Jumping,SJP
+Bronze,3,2022-02-05 00:00:00.0,KRIZNAR N,KRIZNAR Nika,W,../../../en/results/ski-jumping/athlete-profile-n1051161-nika-kriznar.htm,Women's Normal Hill Individual,Slovenia,SLO,Ski Jumping,SJP
+Gold,1,2022-02-05 00:00:00.0,SCHOUTEN I,SCHOUTEN Irene,W,../../../en/results/speed-skating/athlete-profile-n1054311-irene-schouten.htm,Women's 3000m,Netherlands,NED,Speed Skating,SSK
+Silver,2,2022-02-05 00:00:00.0,LOLLOBRIGIDA F,LOLLOBRIGIDA Francesca,W,../../../en/results/speed-skating/athlete-profile-n1035040-francesca-lollobrigida.htm,Women's 3000m,Italy,ITA,Speed Skating,SSK
+Bronze,3,2022-02-05 00:00:00.0,WEIDEMANN I,WEIDEMANN Isabelle,W,../../../en/results/speed-skating/athlete-profile-n1038481-isabelle-weidemann.htm,Women's 3000m,Canada,CAN,Speed Skating,SSK
+Gold,1,2022-02-06 00:00:00.0,BOLSHUNOV A,BOLSHUNOV Alexander,M,../../../en/results/cross-country-skiing/athlete-profile-n1036630-alexander-bolshunov.htm,Men's 15km + 15km Skiathlon,ROC,ROC,Cross-Country Skiing,CCS
+Silver,2,2022-02-06 00:00:00.0,SPITSOV D,SPITSOV Denis,M,../../../en/results/cross-country-skiing/athlete-profile-n1036641-denis-spitsov.htm,Men's 15km + 15km Skiathlon,ROC,ROC,Cross-Country Skiing,CCS
+Bronze,3,2022-02-06 00:00:00.0,NISKANEN I,NISKANEN Iivo,M,../../../en/results/cross-country-skiing/athlete-profile-n1035599-iivo-niskanen.htm,Men's 15km + 15km Skiathlon,Finland,FIN,Cross-Country Skiing,CCS
+Gold,1,2022-02-06 00:00:00.0,ANTHONY J,ANTHONY Jakara,W,../../../en/results/freestyle-skiing/athlete-profile-n1046159-jakara-anthony.htm,Women's Moguls,Australia,AUS,Freestyle Skiing,FRS
+Silver,2,2022-02-06 00:00:00.0,KAUF J,KAUF Jaelin,W,../../../en/results/freestyle-skiing/athlete-profile-n1044722-jaelin-kauf.htm,Women's Moguls,United States of America,USA,Freestyle Skiing,FRS
+Bronze,3,2022-02-06 00:00:00.0,SMIRNOVA A,SMIRNOVA Anastasiia,W,../../../en/results/freestyle-skiing/athlete-profile-n1041110-anastasiia-smirnova.htm,Women's Moguls,ROC,ROC,Freestyle Skiing,FRS
+Gold,1,2022-02-06 00:00:00.0,LUDWIG J,LUDWIG Johannes,M,../../../en/results/luge/athlete-profile-n1014530-johannes-ludwig.htm,Men's Singles,Germany,GER,Luge,LUG
+Silver,2,2022-02-06 00:00:00.0,KINDL W,KINDL Wolfgang,M,../../../en/results/luge/athlete-profile-n1004367-wolfgang-kindl.htm,Men's Singles,Austria,AUT,Luge,LUG
+Bronze,3,2022-02-06 00:00:00.0,FISCHNALLER D,FISCHNALLER Dominik,M,../../../en/results/luge/athlete-profile-n1015388-dominik-fischnaller.htm,Men's Singles,Italy,ITA,Luge,LUG
+Gold,1,2022-02-06 00:00:00.0,KOBAYASHI R,KOBAYASHI Ryoyu,M,../../../en/results/ski-jumping/athlete-profile-n1037831-ryoyu-kobayashi.htm,Men's Normal Hill Individual,Japan,JPN,Ski Jumping,SJP
+Silver,2,2022-02-06 00:00:00.0,FETTNER M,FETTNER Manuel,M,../../../en/results/ski-jumping/athlete-profile-n1005776-manuel-fettner.htm,Men's Normal Hill Individual,Austria,AUT,Ski Jumping,SJP
+Bronze,3,2022-02-06 00:00:00.0,KUBACKI D,KUBACKI Dawid,M,../../../en/results/ski-jumping/athlete-profile-n1032014-dawid-kubacki.htm,Men's Normal Hill Individual,Poland,POL,Ski Jumping,SJP
+Gold,1,2022-02-06 00:00:00.0,SADOWSKI SYNNOTT Z,SADOWSKI SYNNOTT Zoi,W,../../../en/results/snowboard/athlete-profile-n1055087-zoi-sadowski-synnott.htm,Women's Snowboard Slopestyle,New Zealand,NZL,Snowboard,SBD
+Silver,2,2022-02-06 00:00:00.0,MARINO J,MARINO Julia,W,../../../en/results/snowboard/athlete-profile-n1044820-julia-marino.htm,Women's Snowboard Slopestyle,United States of America,USA,Snowboard,SBD
+Bronze,3,2022-02-06 00:00:00.0,COADY T,COADY Tess,W,../../../en/results/snowboard/athlete-profile-n1046177-tess-coady.htm,Women's Snowboard Slopestyle,Australia,AUS,Snowboard,SBD
+Gold,1,2022-02-06 00:00:00.0,van der POEL N,van der POEL Nils,M,../../../en/results/speed-skating/athlete-profile-n1044123-nils-van-der-poel.htm,Men's 5000m,Sweden,SWE,Speed Skating,SSK
+Silver,2,2022-02-06 00:00:00.0,ROEST P,ROEST Patrick,M,../../../en/results/speed-skating/athlete-profile-n1054309-patrick-roest.htm,Men's 5000m,Netherlands,NED,Speed Skating,SSK
+Bronze,3,2022-02-06 00:00:00.0,ENGEBRAATEN H,ENGEBRAATEN Hallgeir,M,../../../en/results/speed-skating/athlete-profile-n1032353-hallgeir-engebraaten.htm,Men's 5000m,Norway,NOR,Speed Skating,SSK

@@ -1,0 +1,19 @@
+Order,Country,Gold,Silver,Bronze,Total,Order by Total,Country Code
+1,Norway,2,0,1,3,2,NOR
+2,Sweden,2,0,0,2,5,SWE
+3,ROC,1,2,2,5,1,ROC
+4,Germany,1,1,0,2,5,GER
+4,Netherlands,1,1,0,2,5,NED
+6,Australia,1,0,1,2,5,AUS
+6,Japan,1,0,1,2,5,JPN
+6,Slovenia,1,0,1,2,5,SLO
+9,People's Republic of China,1,0,0,1,13,CHN
+9,New Zealand,1,0,0,1,13,NZL
+11,Austria,0,2,1,3,2,AUT
+11,Italy,0,2,1,3,2,ITA
+13,United States of America,0,2,0,2,5,USA
+14,Canada,0,1,1,2,5,CAN
+15,France,0,1,0,1,13,FRA
+16,Finland,0,0,1,1,13,FIN
+16,Hungary,0,0,1,1,13,HUN
+16,Poland,0,0,1,1,13,POL

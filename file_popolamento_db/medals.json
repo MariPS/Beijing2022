@@ -1,0 +1,975 @@
+{
+   "Order": 1,
+   "Country": "Norway",
+   "Gold": 2,
+   "Silver": 0,
+   "Bronze": 1,
+   "Total": 3,
+   "Order by Total": 2,
+   "Country Code": "NOR",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "ECKHOFF T",
+         "athlete_name": "ECKHOFF Tiril",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1031947-tiril-eckhoff.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "Norway",
+         "country_code": "NOR",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "ROEISELAND MO",
+         "athlete_name": "ROEISELAND Marte Olsbu",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1031950-marte-olsbu-roeiseland.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "Norway",
+         "country_code": "NOR",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "BOE T",
+         "athlete_name": "BOE Tarjei",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1031962-tarjei-boe.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "Norway",
+         "country_code": "NOR",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "BOE JT",
+         "athlete_name": "BOE Johannes Thingnes",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1031965-johannes-thingnes-boe.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "Norway",
+         "country_code": "NOR",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "JOHAUG T",
+         "athlete_name": "JOHAUG Therese",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/cross-country-skiing/athlete-profile-n1032178-therese-johaug.htm",
+         "event": "Women's 7.5km + 7.5km Skiathlon",
+         "country": "Norway",
+         "country_code": "NOR",
+         "discipline": "Cross-Country Skiing",
+         "discipline_code": "CCS"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "ENGEBRAATEN H",
+         "athlete_name": "ENGEBRAATEN Hallgeir",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/speed-skating/athlete-profile-n1032353-hallgeir-engebraaten.htm",
+         "event": "Men's 5000m",
+         "country": "Norway",
+         "country_code": "NOR",
+         "discipline": "Speed Skating",
+         "discipline_code": "SSK"
+      }
+   ]
+}{
+   "Order": 2,
+   "Country": "Sweden",
+   "Gold": 2,
+   "Silver": 0,
+   "Bronze": 0,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "SWE",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "WALLBERG W",
+         "athlete_name": "WALLBERG Walter",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/freestyle-skiing/athlete-profile-n1035305-walter-wallberg.htm",
+         "event": "Men's Moguls",
+         "country": "Sweden",
+         "country_code": "SWE",
+         "discipline": "Freestyle Skiing",
+         "discipline_code": "FRS"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "van der POEL N",
+         "athlete_name": "van der POEL Nils",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/speed-skating/athlete-profile-n1044123-nils-van-der-poel.htm",
+         "event": "Men's 5000m",
+         "country": "Sweden",
+         "country_code": "SWE",
+         "discipline": "Speed Skating",
+         "discipline_code": "SSK"
+      }
+   ]
+}{
+   "Order": 3,
+   "Country": "ROC",
+   "Gold": 1,
+   "Silver": 2,
+   "Bronze": 2,
+   "Total": 5,
+   "Order by Total": 1,
+   "Country Code": "ROC",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "BOLSHUNOV A",
+         "athlete_name": "BOLSHUNOV Alexander",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/cross-country-skiing/athlete-profile-n1036630-alexander-bolshunov.htm",
+         "event": "Men's 15km + 15km Skiathlon",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Cross-Country Skiing",
+         "discipline_code": "CCS"
+      }
+   ],
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "NEPRYAEVA N",
+         "athlete_name": "NEPRYAEVA Natalia",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/cross-country-skiing/athlete-profile-n1036659-natalia-nepryaeva.htm",
+         "event": "Women's 7.5km + 7.5km Skiathlon",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Cross-Country Skiing",
+         "discipline_code": "CCS"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "SPITSOV D",
+         "athlete_name": "SPITSOV Denis",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/cross-country-skiing/athlete-profile-n1036641-denis-spitsov.htm",
+         "event": "Men's 15km + 15km Skiathlon",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Cross-Country Skiing",
+         "discipline_code": "CCS"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "NIGMATULLINA U",
+         "athlete_name": "NIGMATULLINA Uliana",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1036730-uliana-nigmatullina.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "REZTSOVA K",
+         "athlete_name": "REZTSOVA Kristina",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1036733-kristina-reztsova.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "LATYPOV E",
+         "athlete_name": "LATYPOV Eduard",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1036742-eduard-latypov.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "LOGINOV A",
+         "athlete_name": "LOGINOV Alexander",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1036743-alexander-loginov.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "SMIRNOVA A",
+         "athlete_name": "SMIRNOVA Anastasiia",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/freestyle-skiing/athlete-profile-n1041110-anastasiia-smirnova.htm",
+         "event": "Women's Moguls",
+         "country": "ROC",
+         "country_code": "ROC",
+         "discipline": "Freestyle Skiing",
+         "discipline_code": "FRS"
+      }
+   ]
+}{
+   "Order": 4,
+   "Country": "Germany",
+   "Gold": 1,
+   "Silver": 1,
+   "Bronze": 0,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "GER",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "LUDWIG J",
+         "athlete_name": "LUDWIG Johannes",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/luge/athlete-profile-n1014530-johannes-ludwig.htm",
+         "event": "Men's Singles",
+         "country": "Germany",
+         "country_code": "GER",
+         "discipline": "Luge",
+         "discipline_code": "LUG"
+      }
+   ],
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "ALTHAUS K",
+         "athlete_name": "ALTHAUS Katharina",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/ski-jumping/athlete-profile-n1012745-katharina-althaus.htm",
+         "event": "Women's Normal Hill Individual",
+         "country": "Germany",
+         "country_code": "GER",
+         "discipline": "Ski Jumping",
+         "discipline_code": "SJP"
+      }
+   ]
+}{
+   "Order": 4,
+   "Country": "Netherlands",
+   "Gold": 1,
+   "Silver": 1,
+   "Bronze": 0,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "NED",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "SCHOUTEN I",
+         "athlete_name": "SCHOUTEN Irene",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/speed-skating/athlete-profile-n1054311-irene-schouten.htm",
+         "event": "Women's 3000m",
+         "country": "Netherlands",
+         "country_code": "NED",
+         "discipline": "Speed Skating",
+         "discipline_code": "SSK"
+      }
+   ],
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "ROEST P",
+         "athlete_name": "ROEST Patrick",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/speed-skating/athlete-profile-n1054309-patrick-roest.htm",
+         "event": "Men's 5000m",
+         "country": "Netherlands",
+         "country_code": "NED",
+         "discipline": "Speed Skating",
+         "discipline_code": "SSK"
+      }
+   ]
+}{
+   "Order": 6,
+   "Country": "Australia",
+   "Gold": 1,
+   "Silver": 0,
+   "Bronze": 1,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "AUS",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "ANTHONY J",
+         "athlete_name": "ANTHONY Jakara",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/freestyle-skiing/athlete-profile-n1046159-jakara-anthony.htm",
+         "event": "Women's Moguls",
+         "country": "Australia",
+         "country_code": "AUS",
+         "discipline": "Freestyle Skiing",
+         "discipline_code": "FRS"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "COADY T",
+         "athlete_name": "COADY Tess",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/snowboard/athlete-profile-n1046177-tess-coady.htm",
+         "event": "Women's Snowboard Slopestyle",
+         "country": "Australia",
+         "country_code": "AUS",
+         "discipline": "Snowboard",
+         "discipline_code": "SBD"
+      }
+   ]
+}{
+   "Order": 6,
+   "Country": "Japan",
+   "Gold": 1,
+   "Silver": 0,
+   "Bronze": 1,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "JPN",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "KOBAYASHI R",
+         "athlete_name": "KOBAYASHI Ryoyu",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/ski-jumping/athlete-profile-n1037831-ryoyu-kobayashi.htm",
+         "event": "Men's Normal Hill Individual",
+         "country": "Japan",
+         "country_code": "JPN",
+         "discipline": "Ski Jumping",
+         "discipline_code": "SJP"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "HORISHIMA I",
+         "athlete_name": "HORISHIMA Ikuma",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/freestyle-skiing/athlete-profile-n1037892-ikuma-horishima.htm",
+         "event": "Men's Moguls",
+         "country": "Japan",
+         "country_code": "JPN",
+         "discipline": "Freestyle Skiing",
+         "discipline_code": "FRS"
+      }
+   ]
+}{
+   "Order": 6,
+   "Country": "Slovenia",
+   "Gold": 1,
+   "Silver": 0,
+   "Bronze": 1,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "SLO",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "BOGATAJ U",
+         "athlete_name": "BOGATAJ Ursa",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/ski-jumping/athlete-profile-n1051176-ursa-bogataj.htm",
+         "event": "Women's Normal Hill Individual",
+         "country": "Slovenia",
+         "country_code": "SLO",
+         "discipline": "Ski Jumping",
+         "discipline_code": "SJP"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "KRIZNAR N",
+         "athlete_name": "KRIZNAR Nika",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/ski-jumping/athlete-profile-n1051161-nika-kriznar.htm",
+         "event": "Women's Normal Hill Individual",
+         "country": "Slovenia",
+         "country_code": "SLO",
+         "discipline": "Ski Jumping",
+         "discipline_code": "SJP"
+      }
+   ]
+}{
+   "Order": 9,
+   "Country": "People's Republic of China",
+   "Gold": 1,
+   "Silver": 0,
+   "Bronze": 0,
+   "Total": 1,
+   "Order by Total": 13,
+   "Country Code": "CHN",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "WU D",
+         "athlete_name": "WU Dajing",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1057882-dajing-wu.htm",
+         "event": "Mixed Team Relay",
+         "country": "People's Republic of China",
+         "country_code": "CHN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "REN Z",
+         "athlete_name": "REN Ziwei",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1057883-ziwei-ren.htm",
+         "event": "Mixed Team Relay",
+         "country": "People's Republic of China",
+         "country_code": "CHN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "ZHANG Y",
+         "athlete_name": "ZHANG Yuting",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1057887-yuting-zhang.htm",
+         "event": "Mixed Team Relay",
+         "country": "People's Republic of China",
+         "country_code": "CHN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "QU C",
+         "athlete_name": "QU Chunyu",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1057889-chunyu-qu.htm",
+         "event": "Mixed Team Relay",
+         "country": "People's Republic of China",
+         "country_code": "CHN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "FAN K",
+         "athlete_name": "FAN Kexin",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1057890-kexin-fan.htm",
+         "event": "Mixed Team Relay",
+         "country": "People's Republic of China",
+         "country_code": "CHN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      }
+   ]
+}{
+   "Order": 9,
+   "Country": "New Zealand",
+   "Gold": 1,
+   "Silver": 0,
+   "Bronze": 0,
+   "Total": 1,
+   "Order by Total": 13,
+   "Country Code": "NZL",
+   "gold_medals": [
+      {
+         "medal_type": "Gold",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "SADOWSKI SYNNOTT Z",
+         "athlete_name": "SADOWSKI SYNNOTT Zoi",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/snowboard/athlete-profile-n1055087-zoi-sadowski-synnott.htm",
+         "event": "Women's Snowboard Slopestyle",
+         "country": "New Zealand",
+         "country_code": "NZL",
+         "discipline": "Snowboard",
+         "discipline_code": "SBD"
+      }
+   ]
+}{
+   "Order": 11,
+   "Country": "Austria",
+   "Gold": 0,
+   "Silver": 2,
+   "Bronze": 1,
+   "Total": 3,
+   "Order by Total": 2,
+   "Country Code": "AUT",
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "KINDL W",
+         "athlete_name": "KINDL Wolfgang",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/luge/athlete-profile-n1004367-wolfgang-kindl.htm",
+         "event": "Men's Singles",
+         "country": "Austria",
+         "country_code": "AUT",
+         "discipline": "Luge",
+         "discipline_code": "LUG"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "FETTNER M",
+         "athlete_name": "FETTNER Manuel",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/ski-jumping/athlete-profile-n1005776-manuel-fettner.htm",
+         "event": "Men's Normal Hill Individual",
+         "country": "Austria",
+         "country_code": "AUT",
+         "discipline": "Ski Jumping",
+         "discipline_code": "SJP"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "STADLOBER T",
+         "athlete_name": "STADLOBER Teresa",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/cross-country-skiing/athlete-profile-n1005634-teresa-stadlober.htm",
+         "event": "Women's 7.5km + 7.5km Skiathlon",
+         "country": "Austria",
+         "country_code": "AUT",
+         "discipline": "Cross-Country Skiing",
+         "discipline_code": "CCS"
+      }
+   ]
+}{
+   "Order": 11,
+   "Country": "Italy",
+   "Gold": 0,
+   "Silver": 2,
+   "Bronze": 1,
+   "Total": 3,
+   "Order by Total": 2,
+   "Country Code": "ITA",
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "VALCEPINA M",
+         "athlete_name": "VALCEPINA Martina",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1034961-martina-valcepina.htm",
+         "event": "Mixed Team Relay",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "FONTANA A",
+         "athlete_name": "FONTANA Arianna",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1034964-arianna-fontana.htm",
+         "event": "Mixed Team Relay",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "VALCEPINA A",
+         "athlete_name": "VALCEPINA Arianna",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1034967-arianna-valcepina.htm",
+         "event": "Mixed Team Relay",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "CASSINELLI A",
+         "athlete_name": "CASSINELLI Andrea",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1034971-andrea-cassinelli.htm",
+         "event": "Mixed Team Relay",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "CONFORTOLA Y",
+         "athlete_name": "CONFORTOLA Yuri",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1034972-yuri-confortola.htm",
+         "event": "Mixed Team Relay",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "SIGHEL P",
+         "athlete_name": "SIGHEL Pietro",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1034975-pietro-sighel.htm",
+         "event": "Mixed Team Relay",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "LOLLOBRIGIDA F",
+         "athlete_name": "LOLLOBRIGIDA Francesca",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/speed-skating/athlete-profile-n1035040-francesca-lollobrigida.htm",
+         "event": "Women's 3000m",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Speed Skating",
+         "discipline_code": "SSK"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "FISCHNALLER D",
+         "athlete_name": "FISCHNALLER Dominik",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/luge/athlete-profile-n1015388-dominik-fischnaller.htm",
+         "event": "Men's Singles",
+         "country": "Italy",
+         "country_code": "ITA",
+         "discipline": "Luge",
+         "discipline_code": "LUG"
+      }
+   ]
+}{
+   "Order": 13,
+   "Country": "United States of America",
+   "Gold": 0,
+   "Silver": 2,
+   "Bronze": 0,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "USA",
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "KAUF J",
+         "athlete_name": "KAUF Jaelin",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/freestyle-skiing/athlete-profile-n1044722-jaelin-kauf.htm",
+         "event": "Women's Moguls",
+         "country": "United States of America",
+         "country_code": "USA",
+         "discipline": "Freestyle Skiing",
+         "discipline_code": "FRS"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "MARINO J",
+         "athlete_name": "MARINO Julia",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/snowboard/athlete-profile-n1044820-julia-marino.htm",
+         "event": "Women's Snowboard Slopestyle",
+         "country": "United States of America",
+         "country_code": "USA",
+         "discipline": "Snowboard",
+         "discipline_code": "SBD"
+      }
+   ]
+}{
+   "Order": 14,
+   "Country": "Canada",
+   "Gold": 0,
+   "Silver": 1,
+   "Bronze": 1,
+   "Total": 2,
+   "Order by Total": 5,
+   "Country Code": "CAN",
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "KINGSBURY M",
+         "athlete_name": "KINGSBURY Mikael",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/freestyle-skiing/athlete-profile-n1037602-mikael-kingsbury.htm",
+         "event": "Men's Moguls",
+         "country": "Canada",
+         "country_code": "CAN",
+         "discipline": "Freestyle Skiing",
+         "discipline_code": "FRS"
+      }
+   ],
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "WEIDEMANN I",
+         "athlete_name": "WEIDEMANN Isabelle",
+         "athlete_sex": "W",
+         "athlete_link": "../../../en/results/speed-skating/athlete-profile-n1038481-isabelle-weidemann.htm",
+         "event": "Women's 3000m",
+         "country": "Canada",
+         "country_code": "CAN",
+         "discipline": "Speed Skating",
+         "discipline_code": "SSK"
+      }
+   ]
+}{
+   "Order": 15,
+   "Country": "France",
+   "Gold": 0,
+   "Silver": 1,
+   "Bronze": 0,
+   "Total": 1,
+   "Order by Total": 13,
+   "Country Code": "FRA",
+   "silver_medals": [
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "CHEVALIER-BOUCHET",
+         "athlete_name": "CHEVALIER-BOUCHET Anais",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1035786-anais-chevalier-bouchet.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "France",
+         "country_code": "FRA",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "FILLON MAILLET Q",
+         "athlete_name": "FILLON MAILLET Quentin",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1035791-quentin-fillon-maillet.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "France",
+         "country_code": "FRA",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "JACQUELIN E",
+         "athlete_name": "JACQUELIN Emilien",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1035794-emilien-jacquelin.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "France",
+         "country_code": "FRA",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      },
+      {
+         "medal_type": "Silver",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "SIMON J",
+         "athlete_name": "SIMON Julia",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/biathlon/athlete-profile-n1035801-julia-simon.htm",
+         "event": "Mixed Relay 4x6km (W+M)",
+         "country": "France",
+         "country_code": "FRA",
+         "discipline": "Biathlon",
+         "discipline_code": "BTH"
+      }
+   ]
+}{
+   "Order": 16,
+   "Country": "Finland",
+   "Gold": 0,
+   "Silver": 0,
+   "Bronze": 1,
+   "Total": 1,
+   "Order by Total": 13,
+   "Country Code": "FIN",
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "NISKANEN I",
+         "athlete_name": "NISKANEN Iivo",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/cross-country-skiing/athlete-profile-n1035599-iivo-niskanen.htm",
+         "event": "Men's 15km + 15km Skiathlon",
+         "country": "Finland",
+         "country_code": "FIN",
+         "discipline": "Cross-Country Skiing",
+         "discipline_code": "CCS"
+      }
+   ]
+}{
+   "Order": 16,
+   "Country": "Hungary",
+   "Gold": 0,
+   "Silver": 0,
+   "Bronze": 1,
+   "Total": 1,
+   "Order by Total": 13,
+   "Country Code": "HUN",
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "JASZAPATI P",
+         "athlete_name": "JASZAPATI Petra",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1044439-petra-jaszapati.htm",
+         "event": "Mixed Team Relay",
+         "country": "Hungary",
+         "country_code": "HUN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "KONYA Z",
+         "athlete_name": "KONYA Zsofia",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1044446-zsofia-konya.htm",
+         "event": "Mixed Team Relay",
+         "country": "Hungary",
+         "country_code": "HUN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "KRUEGER JH",
+         "athlete_name": "KRUEGER John-Henry",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1044462-john-henry-krueger.htm",
+         "event": "Mixed Team Relay",
+         "country": "Hungary",
+         "country_code": "HUN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "LIU S",
+         "athlete_name": "LIU Shaoang",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1044470-shaoang-liu.htm",
+         "event": "Mixed Team Relay",
+         "country": "Hungary",
+         "country_code": "HUN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      },
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-05 00:00:00.0",
+         "athlete_short_name": "LIU SS",
+         "athlete_name": "LIU Shaolin Sandor",
+         "athlete_sex": "X",
+         "athlete_link": "../../../en/results/short-track-speed-skating/athlete-profile-n1044475-shaolin-sandor-liu.htm",
+         "event": "Mixed Team Relay",
+         "country": "Hungary",
+         "country_code": "HUN",
+         "discipline": "Short Track Speed Skating",
+         "discipline_code": "STK"
+      }
+   ]
+}{
+   "Order": 16,
+   "Country": "Poland",
+   "Gold": 0,
+   "Silver": 0,
+   "Bronze": 1,
+   "Total": 1,
+   "Order by Total": 13,
+   "Country Code": "POL",
+   "bronze_medals": [
+      {
+         "medal_type": "Bronze",
+         "medal_date": "2022-02-06 00:00:00.0",
+         "athlete_short_name": "KUBACKI D",
+         "athlete_name": "KUBACKI Dawid",
+         "athlete_sex": "M",
+         "athlete_link": "../../../en/results/ski-jumping/athlete-profile-n1032014-dawid-kubacki.htm",
+         "event": "Men's Normal Hill Individual",
+         "country": "Poland",
+         "country_code": "POL",
+         "discipline": "Ski Jumping",
+         "discipline_code": "SJP"
+      }
+   ]
+}
