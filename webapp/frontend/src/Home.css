@@ -1,0 +1,85 @@
+.container {  display: grid;
+    grid-template-columns: 1.8fr 0.7fr 1.5fr; 
+    grid-template-rows: 0.2fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "header header header"
+      "dashboards dashboards dashboards"
+      "disciplines-dashboard disciplines-dashboard disciplines-dashboard";
+  }
+  
+  .header { 
+      grid-area: header; 
+      margin-top: 10px;
+      margin-bottom: 50px;
+      margin-left: auto;
+        margin-right: auto;
+        position: relative;
+    }
+    
+    .header-logo {
+        display: block;
+        width:25%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .dashboards {
+        display: grid; 
+        grid-template-columns: 1fr 1fr; 
+        grid-template-rows: 1.4fr; 
+        gap: 0px 0px; 
+        grid-template-areas: 
+          "medals-board events-board";
+        grid-area: dashboards; 
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+      }
+      .medals-board { 
+          grid-area: medals-board; 
+          max-width: 1500px;
+          max-height: 600px;
+          margin-top: 50px;
+          height: 600px;
+          margin: auto;
+          margin-left: 100px;
+        }
+      .events-board { 
+        grid-area: events-board; 
+        max-width: 1500px;
+        max-height: 600px;
+        margin: auto;
+        margin-right: 100px;
+        height: 600px;
+        }
+
+        .disciplines-dashboard { 
+          grid-area: disciplines-dashboard;
+          display: grid; 
+          grid-template-columns: 1fr; 
+          grid-template-rows: 1fr; 
+          gap: 0px 0px; 
+          grid-template-areas: 
+            "disciplines-search-options"
+            "disciplines-board";
+        }
+        .disciplines-board { 
+            grid-area: disciplines-board; 
+            max-width: 1500px;
+            max-height: 600px;
+            margin: auto;
+            margin-top: 30px;
+            height: 600px;
+          }
+        .disciplines-search-options { 
+            grid-area: disciplines-search-options; 
+            border-radius: 5px;
+            background: #01579b;
+            box-shadow: 2px 2px 8px #01579b;
+            padding: 20px;
+            margin-left: auto;
+            margin-right: auto;
+          }
