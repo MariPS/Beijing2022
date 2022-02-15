@@ -7,6 +7,11 @@
       "header header header"
       "dashboards dashboards dashboards"
       "disciplines-dashboard disciplines-dashboard disciplines-dashboard";
+    background-image: url('poster-image.jpeg');
+    /* height: 500px; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   .header { 
@@ -21,8 +26,8 @@
     .header-logo {
         display: block;
         width:25%;
-        margin-left: auto;
-        margin-right: auto;
+        /* margin-left: auto;
+        margin-right: auto; */
     }
 
 
@@ -32,14 +37,14 @@
         grid-template-rows: 1.4fr; 
         gap: 0px 0px; 
         grid-template-areas: 
-          "medals-board events-board";
+          "ranking-board events-board";
         grid-area: dashboards; 
         margin-left: auto;
         margin-right: auto;
         position: relative;
       }
-      .medals-board { 
-          grid-area: medals-board; 
+      .ranking-board { 
+          grid-area: ranking-board; 
           max-width: 1500px;
           max-height: 600px;
           margin-top: 50px;

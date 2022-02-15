@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import MedalsCollapsibleTable from './MedalsCollapsibleTable';
+import RankingCollapsibleTable from './RankingCollapsibleTable';
 import TableContainer from '@mui/material/TableContainer';
 import Paper from '@mui/material/Paper';
 import "../Home.css";
@@ -17,32 +17,32 @@ const h2Style = {
 
 
 
-function MedalsBoard(props) {
-    const [medalsBoard, setMedalsBoard] = useState(null);
+function RankingBoard(props) {
+    const [rankingBoard, setRankingBoard] = useState(null);
 
     // fires only once at startup
     useEffect(() => {
-        fetchMedalsBoard().then(response => {
-            console.log("MedalsBoardData = ", response);
-            setMedalsBoard(response);
+        fetchRankingBoard().then(response => {
+            console.log("RankingBoardData = ", response);
+            setRankingBoard(response);
         });
     }, [])
 
-    async function fetchMedalsBoard() {
-        const response = await fetch('/medals');  // is a list of dicts
+    async function fetchRankingBoard() {
+        const response = await fetch('/rankings');  // is a list of dicts
         let data = await response.json();
         return data;
     }
 
 
     return (
-            <div className='medals-board'>
+            <div className='ranking-board'>
                 <TableContainer component={Paper} style={{backgroundColor: '#c79a00'}}>
-                    <h2 style={h2Style}>Medals Board</h2>
-                    {medalsBoard && <MedalsCollapsibleTable rows={medalsBoard}/>}
+                    <h2 style={h2Style}>Ranking Board</h2>
+                    {rankingBoard && <RankingCollapsibleTable rows={rankingBoard}/>}
                 </TableContainer>
             </div>
         )
 }
 
-export default MedalsBoard;
+export default RankingBoard;

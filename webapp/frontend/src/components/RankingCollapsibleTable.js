@@ -253,7 +253,7 @@ Row.propTypes = {
 
 
 
-export default function MedalsCollapsibleTable(props) {
+export default function RankingCollapsibleTable(props) {
 
   return (
     <div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import MedalsBoard from '../components/MedalsBoard';
+import RankingBoard from '../components/RankingBoard';
 import '../Home.css';
 import pic from "../image.jpeg"
 import EventsBoard from '../components/EventsBoard';
@@ -13,7 +13,7 @@ const Home = () => {
         <div className="container">
             <div className="header"><img className="header-logo" src={pic} alt="logo" /></div>
             <div className="dashboards">
-                <MedalsBoard />
+                <RankingBoard />
                 <EventsBoard />
             </div>
             <DisciplinesBoard />
