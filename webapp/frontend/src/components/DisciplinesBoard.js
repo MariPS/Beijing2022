@@ -7,12 +7,21 @@ import "../Home.css";
 
 const h2Style = {
     fontFamily:"Tahoma",
+    fontSize: "1.3em",
     color :"#ffffff",
     marginTop: "10px",
     marginBottom: "10px",
     marginRight: "150px",
     marginLeft: "50px",
   };
+
+const optionStyle = {
+    fontFamily:"Tahoma",
+    fontSize: "1em",
+    color :"#ffffff",
+    margin: "auto",
+    marginRight:"100px"
+}
 
 
 
@@ -56,15 +65,15 @@ function DisciplinesBoard(props) {
    
         return (
                 <div className="disciplines-dashboard">
-                    <div  className='disciplines-search-options'>
-                        <h2 style={h2Style}>Disciplines Search Options</h2>
-                        <div> Discipline: 
+                    <div  className='disciplines-search-options' style={{maxHeight: 200}}>
+                        <h2 style={optionStyle}>Select discipline</h2>
+                        <div> 
                         { options && <Select isSearchable defaultValue={selectedOption} onChange={setSelectedOption} options={options[0]} />}
                         </div>
                         
                     </div>
                     <div className="disciplines-board">
-                    <TableContainer component={Paper} style={{backgroundColor: '#01579b'}}>
+                    <TableContainer component={Paper} style={{backgroundColor: '#01579b', maxHeight: 500}}>
                         <h2 style={h2Style}>Disciplines Board</h2>
                         {/* {board && <DisciplinesSearchTab />} */}
                         {options && <DisciplinesCollapsibleTable selectedOption={selectedOption}/>}

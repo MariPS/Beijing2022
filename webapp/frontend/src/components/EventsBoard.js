@@ -6,15 +6,13 @@ import EventsTable from './EventsTable';
 
 const h2Style = {
     fontFamily:"Tahoma",
-    fontSize: 18,
+    fontSize: "1.3em",
     color :"#ffffff",
     marginTop: "10px",
     marginBottom: "10px",
     marginRight: "150px",
     marginLeft: "50px",
-  };
-
-
+  }
 
 
 function EventsBoard(props) {
@@ -39,7 +37,7 @@ function EventsBoard(props) {
 
     return (
             <div className='events-board'>
-                <TableContainer component={Paper} style={{backgroundColor: '#c79a00'}}>
+                <TableContainer component={Paper} style={{backgroundColor: '#ffca28', height: 500}}>
                     <h2 style={h2Style}>Events Board</h2>
                     {eventsBoard && <EventsTable rows={eventsBoard}/>}
                 </TableContainer>

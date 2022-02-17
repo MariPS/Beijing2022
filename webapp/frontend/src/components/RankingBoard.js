@@ -4,16 +4,16 @@ import TableContainer from '@mui/material/TableContainer';
 import Paper from '@mui/material/Paper';
 import "../Home.css";
 
-const h2Style = {
+
+  const h2Style = {
     fontFamily:"Tahoma",
-    fontSize: 18,
+    fontSize: "1.3em",
     color :"#ffffff",
     marginTop: "10px",
     marginBottom: "10px",
     marginRight: "150px",
     marginLeft: "50px",
-  };
-
+  }
 
 
 
@@ -37,7 +37,7 @@ function RankingBoard(props) {
 
     return (
             <div className='ranking-board'>
-                <TableContainer component={Paper} style={{backgroundColor: '#c79a00'}}>
+                <TableContainer component={Paper} style={{backgroundColor: '#d13425', height: 500}}>
                     <h2 style={h2Style}>Ranking Board</h2>
                     {rankingBoard && <RankingCollapsibleTable rows={rankingBoard}/>}
                 </TableContainer>

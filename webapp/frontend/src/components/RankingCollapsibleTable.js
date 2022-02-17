@@ -16,25 +16,31 @@ import { styled } from '@mui/material/styles';
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
-    backgroundColor: '#ffca28',
+    backgroundColor: '#ca130b',
     color: theme.palette.common.white,
     fontSize: 12,
     fontFamily: "Tahoma",
+    maxWidth: '5rem',
+    minWidth: '3rem'
   },
   [`&.${tableCellClasses.body}`]: {
     fontSize: 10,
+    maxWidth: '5rem',
+    minWidth: '3rem'
   },
 }));
 
 const StyledInnerTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
-    backgroundColor: '#ffca28',
+    backgroundColor: '#ca130b',
     color: theme.palette.common.white,
     fontSize: 14,
     fontFamily: "Tahoma",
+    maxWidth: '1em',
   },
   [`&.${tableCellClasses.body}`]: {
     fontSize: 10,
+    maxWidth: '1em',
   },
 }));
 
@@ -74,7 +80,6 @@ function Row(props) {
   return (
     <React.Fragment>
       <StyledTableRow sx={{ '& > *': { borderBottom: 'unset' } }}>
-        <StyledTableCell />
         <StyledTableCell component="th" scope="row" align="left">{row.Order}</StyledTableCell>
         <StyledTableCell align="center">{row.Country}</StyledTableCell>
         <StyledTableCell align="center">{row.Gold}<IconButton
@@ -257,11 +262,10 @@ export default function RankingCollapsibleTable(props) {
 
   return (
     <div>
-    <TableContainer style={{maxHeight: '500px', overflow: "scroll"}} component={Paper}>
+    <TableContainer style={{height: "max-content"}} component={Paper}>
       <Table size="small" aria-label="customized table">
         <TableHead>
           <StyledTableRow >
-            <StyledTableCell />
             <StyledTableCell>Order</StyledTableCell>
             <StyledTableCell align='center'>Country</StyledTableCell>
             <StyledTableCell>Gold</StyledTableCell>

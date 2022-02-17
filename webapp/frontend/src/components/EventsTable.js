@@ -10,13 +10,16 @@ import { styled } from '@mui/material/styles';
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
-    backgroundColor: '#ffca28',
+    backgroundColor: '#e7af07',
     color: theme.palette.common.white,
     fontSize: 12,
     fontFamily: "Tahoma",
+    maxWidth: '8rem'
   },
   [`&.${tableCellClasses.body}`]: {
     fontSize: 10,
+    maxWidth: '8rem',
+    minWidth: '4rem'
   },
 }));
 
@@ -42,7 +45,6 @@ function Row(props) {
   return (
     <React.Fragment>
       <StyledTableRow sx={{ '& > *': { borderBottom: 'unset' } }}>
-        <StyledTableCell />
         <StyledTableCell component="th" scope="row" align="left">{row.location}</StyledTableCell>
         <StyledTableCell align="center">{row.event_stage}</StyledTableCell>
         <StyledTableCell align="center">{row.event_status}</StyledTableCell>
@@ -62,11 +64,10 @@ export default function EventsTable(props) {
 
   return (
     <div>
-    <TableContainer style={{maxHeight: '500px', overflow: "scroll"}} component={Paper}>
+    <TableContainer style={{height: "max-content"}} component={Paper}>
       <Table size="small" aria-label="customized table">
         <TableHead>
           <StyledTableRow >
-            <StyledTableCell />
             <StyledTableCell>Location</StyledTableCell>
             <StyledTableCell>Event stage</StyledTableCell>
             <StyledTableCell>Event status</StyledTableCell>

@@ -18,11 +18,15 @@ const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
     backgroundColor: '#4f83cc',
     color: theme.palette.common.white,
-    fontSize: 16,
+    fontSize: 12,
     fontFamily: "Tahoma",
+    maxWidth: '5rem',
+    minWidth: '3rem'
   },
   [`&.${tableCellClasses.body}`]: {
-    fontSize: 14,
+    fontSize: 10,
+    maxWidth: '5rem',
+    minWidth: '3rem'
   },
 }));
 
@@ -32,9 +36,11 @@ const StyledInnerTableCell = styled(TableCell)(({ theme }) => ({
     color: theme.palette.common.white,
     fontSize: 14,
     fontFamily: "Tahoma",
+    maxWidth: '1em',
   },
   [`&.${tableCellClasses.body}`]: {
     fontSize: 10,
+    maxWidth: '1em',
   },
 }));
 
@@ -72,7 +78,6 @@ function Row(props) {
   return (
     <React.Fragment>
       <StyledTableRow sx={{ '& > *': { borderBottom: 'unset' } }}>
-        <StyledTableCell />
         <StyledTableCell component="th" scope="row" align="left">{row.Discipline}</StyledTableCell>
         <StyledTableCell align="center">{row.Total}
         <IconButton
@@ -175,11 +180,10 @@ export default function DisciplinesCollapsibleTable(props) {
 
   return (
     <div>
-    <TableContainer style={{maxHeight: '500px', maxWidth:"1500px", overflow: "scroll"}} component={Paper}>
+    <TableContainer style={{height: "max-content"}} component={Paper}>
       <Table  aria-label="customized table">
         <TableHead>
           <StyledTableRow>
-            <StyledTableCell />
             <StyledTableCell>Discipline</StyledTableCell>
             <StyledTableCell>Total Athletes</StyledTableCell>
             <StyledTableCell>Total Athletes&nbsp;(M)</StyledTableCell>
