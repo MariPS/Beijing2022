@@ -1,4 +1,3 @@
-from itertools import count
 import motor.motor_asyncio
 
 from server.models.MedalModel import MedalModel
