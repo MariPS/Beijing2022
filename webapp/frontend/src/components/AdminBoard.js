@@ -73,7 +73,11 @@ function AdminBoard(props) {
     // imposta i nomi delle discipline
     useEffect(() => {
         fetchDisciplinesNames().then(response => {
-            setOptionsDiscipline(response)
+            let newOptions = [];
+            newOptions=response[0].filter(data => {
+                return data["value"] !== "Total"
+            });
+            setOptionsDiscipline(newOptions);
         });
 
         const medalTypes = [
@@ -281,7 +285,7 @@ function AdminBoard(props) {
             <div className='admin-ranking-options'>
                 <p className='admin-ranking-options-title' >Add Medal for:</p>
                 <form onSubmit={handleSubmit}>
-                    <Select placeholder="Discipline" isSearchable value={selectedDiscipline} onChange={setSelectedDiscipline} options={optionsDiscipline && optionsDiscipline[0]} />
+                    <Select placeholder="Discipline" isSearchable value={selectedDiscipline} onChange={setSelectedDiscipline} options={optionsDiscipline && optionsDiscipline} />
                     <Select placeholder="Event Location" isSearchable value={selectedEventLocation} onChange={setSelectedEventLocation} options={optionsEventsLocation && optionsEventsLocation[0]} />
                     <Select placeholder="Event Stage" isSearchable value={selectedEventStage} onChange={setSelectedEventStage} options={optionsEventsStage && optionsEventsStage} />
                     <Select placeholder="Country" isSearchable value={selectedCountry} onChange={setSelectedCountry} options={optionsCountry && optionsCountry[0]} />

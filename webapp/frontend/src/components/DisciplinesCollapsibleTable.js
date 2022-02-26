@@ -80,16 +80,20 @@ function Row(props) {
       <StyledTableRow sx={{ '& > *': { borderBottom: 'unset' } }}>
         <StyledTableCell component="th" scope="row" align="left">{row.Discipline}</StyledTableCell>
         <StyledTableCell align="center">{row.Total}
+        { row.Discipline !== "Total" && 
         <IconButton
             aria-label="expand row"
             size="small"
             onClick={() => setOpen(!open)}
           >
             {open ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
-          </IconButton></StyledTableCell>
+          </IconButton>
+        }
+          </StyledTableCell>
         <StyledTableCell align="center">{row.M}</StyledTableCell>
         <StyledTableCell align="center">{row.F}</StyledTableCell>
       </StyledTableRow>
+      { row.Discipline !== "Total" && 
       <StyledInnerTableRow>
         <StyledTableCell style={{ paddingBottom: 0, paddingTop: 0 }} colSpan={6}>
           <Collapse in={open} timeout="auto" unmountOnExit>
@@ -128,6 +132,7 @@ function Row(props) {
           </Collapse>
         </StyledTableCell>
       </StyledInnerTableRow>
+      }
     </React.Fragment>
   );
 }

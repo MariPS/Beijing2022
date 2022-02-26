@@ -10,7 +10,6 @@ database = client.Beijing2022
 
 disciplines_collection = database.get_collection("disciplines")
 rankings_collection = database.get_collection("rankings")
-results_collection = database.get_collection("results")
 events_collection = database.get_collection("events")
 
 
@@ -130,13 +129,6 @@ async def create_a_medal(medal: dict):
         return True
     return False
     
-
-# Retrieve all results
-async def retrieve_all_results():
-    results = []
-    async for result in results_collection.find({},{"_id":0}):
-        results.append(result)
-    return results
 
 
 

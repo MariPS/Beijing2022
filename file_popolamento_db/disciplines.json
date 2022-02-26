@@ -7725,8 +7725,8 @@
 }{
    "Discipline": "Bobsleigh",
    "F": 46,
-   "M": 117,
-   "Total": 163,
+   "M": 119,
+   "Total": 165,
    "athletes": [
       {
          "name": "ABDUL-SABOOR Hakeem",
@@ -32269,8 +32269,8 @@
 }{
    "Discipline": "Nordic Combined",
    "F": 0,
-   "M": 56,
-   "Total": 56,
+   "M": 59,
+   "Total": 59,
    "athletes": [
       {
          "name": "ANDERSEN Espen",
@@ -40424,9 +40424,9 @@
    ]
 }{
    "Discipline": "Speed Skating",
-   "F": 78,
+   "F": 77,
    "M": 87,
-   "Total": 165,
+   "Total": 164,
    "athletes": [
       {
          "name": "ACHTEREEKTE Carlijn",
@@ -43016,8 +43016,8 @@
    ]
 }{
    "Discipline": "Total",
-   "F": 1296,
-   "M": 1598,
-   "Total": 2894,
+   "F": 1295,
+   "M": 1603,
+   "Total": 2898,
    "athletes": []
 }

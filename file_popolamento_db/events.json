@@ -121,6 +121,7 @@
 }{
    "location": "Yanqing National Alpine Skiing Centre - Speed",
    "event_stage": "Women's Downhill 3rd Training",
+   "event_status": "Finished",
    "time": "2022-02-14T13:00:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-women-s-downhill-trno-000300-.htm",
    "discipline_code": "ALP",
@@ -128,13 +129,15 @@
 }{
    "location": "Yanqing National Alpine Skiing Centre - Speed",
    "event_stage": "Women's Downhill",
-   "time": "2022-02-15T11:00:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-15T11:30:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-women-s-downhill-fnl-000100-.htm",
    "discipline_code": "ALP",
    "discipline": "Alpine Skiing"
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Men's Slalom Run 1",
+   "event_status": "Finished",
    "time": "2022-02-16T10:15:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-men-s-slalom-fnl-.htm",
    "discipline_code": "ALP",
@@ -142,13 +145,15 @@
 }{
    "location": "Yanqing National Alpine Skiing Centre - Speed",
    "event_stage": "Women's Alpine Combined Downhill 1st Training",
-   "time": "2022-02-16T10:30:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T12:00:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-women-s-alpine-combined-trno-000100-.htm",
    "discipline_code": "ALP",
    "discipline": "Alpine Skiing"
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Men's Slalom Run 2",
+   "event_status": "Finished",
    "time": "2022-02-16T13:45:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-men-s-slalom-fnl-.htm",
    "discipline_code": "ALP",
@@ -156,6 +161,7 @@
 }{
    "location": "Yanqing National Alpine Skiing Centre - Speed",
    "event_stage": "Women's Alpine Combined Downhill",
+   "event_status": "Finished",
    "time": "2022-02-17T10:30:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-women-s-alpine-combined-fnl-.htm",
    "discipline_code": "ALP",
@@ -163,6 +169,7 @@
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Women's Alpine Combined Slalom",
+   "event_status": "Finished",
    "time": "2022-02-17T14:00:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-women-s-alpine-combined-fnl-.htm",
    "discipline_code": "ALP",
@@ -170,35 +177,35 @@
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Mixed Team Parallel 1/8 Finals",
-   "time": "2022-02-19T11:00:00+08:00",
+   "time": "2022-02-19T10:00:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-mixed-team-parallel-8fnl.htm",
    "discipline_code": "ALP",
    "discipline": "Alpine Skiing"
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Mixed Team Parallel 1/4 Finals",
-   "time": "2022-02-19T11:47:00+08:00",
+   "time": "2022-02-19T10:40:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-mixed-team-parallel-qfnl.htm",
    "discipline_code": "ALP",
    "discipline": "Alpine Skiing"
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Mixed Team Parallel 1/2 Finals",
-   "time": "2022-02-19T12:14:00+08:00",
+   "time": "2022-02-19T11:09:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-mixed-team-parallel-sfnl.htm",
    "discipline_code": "ALP",
    "discipline": "Alpine Skiing"
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Mixed Team Parallel Small Final",
-   "time": "2022-02-19T12:37:00+08:00",
+   "time": "2022-02-19T11:28:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-mixed-team-parallel-fnl-.htm",
    "discipline_code": "ALP",
    "discipline": "Alpine Skiing"
 }{
    "location": "Yanqing National Alpine Skiing Centre - Technical",
    "event_stage": "Mixed Team Parallel Big Final",
-   "time": "2022-02-19T12:46:00+08:00",
+   "time": "2022-02-19T11:37:00+08:00",
    "event_url": "../../../en/results/alpine-skiing/results-mixed-team-parallel-fnl-.htm",
    "discipline_code": "ALP",
    "discipline": "Alpine Skiing"
@@ -261,29 +268,33 @@
 }{
    "location": "Zhangjiakou National Biathlon Centre",
    "event_stage": "Men's 4x7.5km Relay",
-   "time": "2022-02-15T17:00:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-15T14:30:00+08:00",
    "event_url": "../../../en/results/biathlon/results-men-s-4x7-5km-relay-fnl-000100-.htm",
    "discipline_code": "BTH",
    "discipline": "Biathlon"
 }{
    "location": "Zhangjiakou National Biathlon Centre",
    "event_stage": "Women's 4x6km Relay",
+   "event_status": "Finished",
    "time": "2022-02-16T15:45:00+08:00",
    "event_url": "../../../en/results/biathlon/results-women-s-4x6km-relay-fnl-000100-.htm",
    "discipline_code": "BTH",
    "discipline": "Biathlon"
 }{
    "location": "Zhangjiakou National Biathlon Centre",
-   "event_stage": "Men's 15km Mass Start",
-   "time": "2022-02-18T17:00:00+08:00",
-   "event_url": "../../../en/results/biathlon/results-men-s-15km-mass-start-fnl-000100-.htm",
+   "event_stage": "Women's 12.5km Mass Start",
+   "event_status": "Finished",
+   "time": "2022-02-18T15:00:00+08:00",
+   "event_url": "../../../en/results/biathlon/results-women-s-12-5km-mass-start-fnl-000100-.htm",
    "discipline_code": "BTH",
    "discipline": "Biathlon"
 }{
    "location": "Zhangjiakou National Biathlon Centre",
-   "event_stage": "Women's 12.5km Mass Start",
-   "time": "2022-02-19T17:00:00+08:00",
-   "event_url": "../../../en/results/biathlon/results-women-s-12-5km-mass-start-fnl-000100-.htm",
+   "event_stage": "Men's 15km Mass Start",
+   "event_status": "Finished",
+   "time": "2022-02-18T17:00:00+08:00",
+   "event_url": "../../../en/results/biathlon/results-men-s-15km-mass-start-fnl-000100-.htm",
    "discipline_code": "BTH",
    "discipline": "Biathlon"
 }{
@@ -397,6 +408,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "Women's Monobob Heat 3",
+   "event_status": "Finished",
    "time": "2022-02-14T09:30:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-women-s-monobob-fnl-000300-.htm",
    "discipline_code": "BOB",
@@ -404,6 +416,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "Women's Monobob Heat 4",
+   "event_status": "Finished",
    "time": "2022-02-14T11:00:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-women-s-monobob-fnl-000400-.htm",
    "discipline_code": "BOB",
@@ -411,6 +424,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-man Heat 1",
+   "event_status": "Finished",
    "time": "2022-02-14T20:05:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-man-fnl-000100-.htm",
    "discipline_code": "BOB",
@@ -418,6 +432,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-man Heat 2",
+   "event_status": "Finished",
    "time": "2022-02-14T21:40:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-man-fnl-000200-.htm",
    "discipline_code": "BOB",
@@ -425,6 +440,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Official Training Heat 1",
+   "event_status": "Finished",
    "time": "2022-02-15T14:10:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-trno-000100-.htm",
    "discipline_code": "BOB",
@@ -432,12 +448,14 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Official Training Heat 2",
+   "event_status": "Finished",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-trno-000200-.htm",
    "discipline_code": "BOB",
    "discipline": "Bobsleigh"
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-man Heat 3",
+   "event_status": "Finished",
    "time": "2022-02-15T20:15:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-man-fnl-000300-.htm",
    "discipline_code": "BOB",
@@ -445,6 +463,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-man Heat 4",
+   "event_status": "Finished",
    "time": "2022-02-15T21:50:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-man-fnl-000400-.htm",
    "discipline_code": "BOB",
@@ -452,6 +471,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "4-man Official Training Heat 1",
+   "event_status": "Finished",
    "time": "2022-02-16T09:40:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-4-man-trno-000100-.htm",
    "discipline_code": "BOB",
@@ -459,12 +479,14 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "4-man Official Training Heat 2",
+   "event_status": "Finished",
    "event_url": "../../../en/results/bobsleigh/results-4-man-trno-000200-.htm",
    "discipline_code": "BOB",
    "discipline": "Bobsleigh"
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Official Training Heat 3",
+   "event_status": "Finished",
    "time": "2022-02-16T14:10:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-trno-000300-.htm",
    "discipline_code": "BOB",
@@ -472,12 +494,14 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Official Training Heat 4",
+   "event_status": "Finished",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-trno-000400-.htm",
    "discipline_code": "BOB",
    "discipline": "Bobsleigh"
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "4-man Official Training Heat 3",
+   "event_status": "Finished",
    "time": "2022-02-17T09:42:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-4-man-trno-000300-.htm",
    "discipline_code": "BOB",
@@ -485,12 +509,14 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "4-man Official Training Heat 4",
+   "event_status": "Finished",
    "event_url": "../../../en/results/bobsleigh/results-4-man-trno-000400-.htm",
    "discipline_code": "BOB",
    "discipline": "Bobsleigh"
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Official Training Heat 5",
+   "event_status": "Finished",
    "time": "2022-02-17T14:10:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-trno-000500-.htm",
    "discipline_code": "BOB",
@@ -498,12 +524,14 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Official Training Heat 6",
+   "event_status": "Finished",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-trno-000600-.htm",
    "discipline_code": "BOB",
    "discipline": "Bobsleigh"
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "4-man Official Training Heat 5",
+   "event_status": "Finished",
    "time": "2022-02-18T09:42:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-4-man-trno-000500-.htm",
    "discipline_code": "BOB",
@@ -511,12 +539,14 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "4-man Official Training Heat 6",
+   "event_status": "Finished",
    "event_url": "../../../en/results/bobsleigh/results-4-man-trno-000600-.htm",
    "discipline_code": "BOB",
    "discipline": "Bobsleigh"
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Heat 1",
+   "event_status": "Finished",
    "time": "2022-02-18T20:00:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-fnl-000100-.htm",
    "discipline_code": "BOB",
@@ -524,6 +554,7 @@
 }{
    "location": "Yanqing National Sliding Centre",
    "event_stage": "2-woman Heat 2",
+   "event_status": "Finished",
    "time": "2022-02-18T21:30:00+08:00",
    "event_url": "../../../en/results/bobsleigh/results-2-woman-fnl-000200-.htm",
    "discipline_code": "BOB",
@@ -685,28 +716,32 @@
 }{
    "location": "Zhangjiakou National Cross-Country Skiing Centre",
    "event_stage": "Women's Team Sprint Classic Semifinals",
-   "time": "2022-02-16T17:00:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T15:15:00+08:00",
    "event_url": "../../../en/results/cross-country-skiing/results-women-s-team-sprint-classic-sfnl.htm",
    "discipline_code": "CCS",
    "discipline": "Cross-Country Skiing"
 }{
    "location": "Zhangjiakou National Cross-Country Skiing Centre",
    "event_stage": "Men's Team Sprint Classic Semifinals",
-   "time": "2022-02-16T18:00:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T16:15:00+08:00",
    "event_url": "../../../en/results/cross-country-skiing/results-men-s-team-sprint-classic-sfnl.htm",
    "discipline_code": "CCS",
    "discipline": "Cross-Country Skiing"
 }{
    "location": "Zhangjiakou National Cross-Country Skiing Centre",
    "event_stage": "Women's Team Sprint Classic Final",
-   "time": "2022-02-16T19:00:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T17:15:00+08:00",
    "event_url": "../../../en/results/cross-country-skiing/results-women-s-team-sprint-classic-fnl-000100-.htm",
    "discipline_code": "CCS",
    "discipline": "Cross-Country Skiing"
 }{
    "location": "Zhangjiakou National Cross-Country Skiing Centre",
    "event_stage": "Men's Team Sprint Classic Final",
-   "time": "2022-02-16T19:30:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T17:45:00+08:00",
    "event_url": "../../../en/results/cross-country-skiing/results-men-s-team-sprint-classic-fnl-000100-.htm",
    "discipline_code": "CCS",
    "discipline": "Cross-Country Skiing"
@@ -1511,6 +1546,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Women's Round Robin Session 7",
+   "event_status": "Finished",
    "time": "2022-02-14T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000702-.htm",
    "discipline_code": "CUR",
@@ -1518,6 +1554,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Women's Round Robin Session 7",
+   "event_status": "Finished",
    "time": "2022-02-14T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000703-.htm",
    "discipline_code": "CUR",
@@ -1525,6 +1562,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Women's Round Robin Session 7",
+   "event_status": "Finished",
    "time": "2022-02-14T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000704-.htm",
    "discipline_code": "CUR",
@@ -1532,6 +1570,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Men's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000801-.htm",
    "discipline_code": "CUR",
@@ -1539,6 +1578,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Men's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000802-.htm",
    "discipline_code": "CUR",
@@ -1546,6 +1586,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Men's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000803-.htm",
    "discipline_code": "CUR",
@@ -1553,6 +1594,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Men's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000804-.htm",
    "discipline_code": "CUR",
@@ -1560,6 +1602,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Women's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000801-.htm",
    "discipline_code": "CUR",
@@ -1567,6 +1610,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Women's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000802-.htm",
    "discipline_code": "CUR",
@@ -1574,6 +1618,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Women's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000803-.htm",
    "discipline_code": "CUR",
@@ -1581,6 +1626,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Women's Round Robin Session 8",
+   "event_status": "Finished",
    "time": "2022-02-14T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000804-.htm",
    "discipline_code": "CUR",
@@ -1588,6 +1634,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Men's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000901-.htm",
    "discipline_code": "CUR",
@@ -1595,6 +1642,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Men's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000902-.htm",
    "discipline_code": "CUR",
@@ -1602,6 +1650,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Men's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000903-.htm",
    "discipline_code": "CUR",
@@ -1609,6 +1658,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Men's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-000904-.htm",
    "discipline_code": "CUR",
@@ -1616,6 +1666,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Women's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000901-.htm",
    "discipline_code": "CUR",
@@ -1623,6 +1674,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Women's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000902-.htm",
    "discipline_code": "CUR",
@@ -1630,6 +1682,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Women's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000903-.htm",
    "discipline_code": "CUR",
@@ -1637,6 +1690,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Women's Round Robin Session 9",
+   "event_status": "Finished",
    "time": "2022-02-15T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-000904-.htm",
    "discipline_code": "CUR",
@@ -1644,6 +1698,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Men's Round Robin Session 10",
+   "event_status": "Finished",
    "time": "2022-02-15T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001001-.htm",
    "discipline_code": "CUR",
@@ -1651,6 +1706,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Men's Round Robin Session 10",
+   "event_status": "Finished",
    "time": "2022-02-15T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001002-.htm",
    "discipline_code": "CUR",
@@ -1658,6 +1714,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Men's Round Robin Session 10",
+   "event_status": "Finished",
    "time": "2022-02-15T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001003-.htm",
    "discipline_code": "CUR",
@@ -1665,6 +1722,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Men's Round Robin Session 10",
+   "event_status": "Finished",
    "time": "2022-02-15T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001004-.htm",
    "discipline_code": "CUR",
@@ -1672,6 +1730,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Women's Round Robin Session 10",
+   "event_status": "Finished",
    "time": "2022-02-16T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001001-.htm",
    "discipline_code": "CUR",
@@ -1679,6 +1738,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Women's Round Robin Session 10",
+   "event_status": "Finished",
    "time": "2022-02-16T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001002-.htm",
    "discipline_code": "CUR",
@@ -1686,6 +1746,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Women's Round Robin Session 10",
+   "event_status": "Finished",
    "time": "2022-02-16T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001003-.htm",
    "discipline_code": "CUR",
@@ -1693,6 +1754,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Men's Round Robin Session 11",
+   "event_status": "Finished",
    "time": "2022-02-16T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001101-.htm",
    "discipline_code": "CUR",
@@ -1700,6 +1762,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Men's Round Robin Session 11",
+   "event_status": "Finished",
    "time": "2022-02-16T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001102-.htm",
    "discipline_code": "CUR",
@@ -1707,6 +1770,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Men's Round Robin Session 11",
+   "event_status": "Finished",
    "time": "2022-02-16T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001103-.htm",
    "discipline_code": "CUR",
@@ -1714,6 +1778,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Women's Round Robin Session 11",
+   "event_status": "Finished",
    "time": "2022-02-16T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001101-.htm",
    "discipline_code": "CUR",
@@ -1721,6 +1786,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Women's Round Robin Session 11",
+   "event_status": "Finished",
    "time": "2022-02-16T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001102-.htm",
    "discipline_code": "CUR",
@@ -1728,6 +1794,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Women's Round Robin Session 11",
+   "event_status": "Finished",
    "time": "2022-02-16T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001103-.htm",
    "discipline_code": "CUR",
@@ -1735,6 +1802,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Women's Round Robin Session 11",
+   "event_status": "Finished",
    "time": "2022-02-16T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001104-.htm",
    "discipline_code": "CUR",
@@ -1742,6 +1810,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Men's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001201-.htm",
    "discipline_code": "CUR",
@@ -1749,6 +1818,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Men's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001202-.htm",
    "discipline_code": "CUR",
@@ -1756,6 +1826,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Men's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001203-.htm",
    "discipline_code": "CUR",
@@ -1763,6 +1834,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Men's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T09:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-prel-001204-.htm",
    "discipline_code": "CUR",
@@ -1770,6 +1842,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Women's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001201-.htm",
    "discipline_code": "CUR",
@@ -1777,6 +1850,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Women's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001202-.htm",
    "discipline_code": "CUR",
@@ -1784,6 +1858,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Women's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001203-.htm",
    "discipline_code": "CUR",
@@ -1791,6 +1866,7 @@
 }{
    "location": "National Aquatics Centre - Sheet D",
    "event_stage": "Women's Round Robin Session 12",
+   "event_status": "Finished",
    "time": "2022-02-17T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-prel-001204-.htm",
    "discipline_code": "CUR",
@@ -1798,6 +1874,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Men's Semi-final",
+   "event_status": "Finished",
    "time": "2022-02-17T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-sfnl-000102-.htm",
    "discipline_code": "CUR",
@@ -1805,6 +1882,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Men's Semi-final",
+   "event_status": "Finished",
    "time": "2022-02-17T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-sfnl-000101-.htm",
    "discipline_code": "CUR",
@@ -1812,6 +1890,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Men's Bronze Medal Game",
+   "event_status": "Finished",
    "time": "2022-02-18T14:05:00+08:00",
    "event_url": "../../../en/results/curling/results-men-fnl-000201-.htm",
    "discipline_code": "CUR",
@@ -1819,6 +1898,7 @@
 }{
    "location": "National Aquatics Centre - Sheet A",
    "event_stage": "Women's Semi-final",
+   "event_status": "Finished",
    "time": "2022-02-18T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-sfnl-000102-.htm",
    "discipline_code": "CUR",
@@ -1826,6 +1906,7 @@
 }{
    "location": "National Aquatics Centre - Sheet C",
    "event_stage": "Women's Semi-final",
+   "event_status": "Finished",
    "time": "2022-02-18T20:05:00+08:00",
    "event_url": "../../../en/results/curling/results-women-sfnl-000101-.htm",
    "discipline_code": "CUR",
@@ -1833,7 +1914,7 @@
 }{
    "location": "National Aquatics Centre - Sheet B",
    "event_stage": "Men's Gold Medal Game",
-   "time": "2022-02-19T14:05:00+08:00",
+   "time": "2022-02-19T14:50:00+08:00",
    "event_url": "../../../en/results/curling/results-men-fnl-000101-.htm",
    "discipline_code": "CUR",
    "discipline": "Curling"
@@ -1942,6 +2023,7 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Ice Dance - Free Dance",
+   "event_status": "Finished",
    "time": "2022-02-14T09:15:00+08:00",
    "event_url": "../../../en/results/figure-skating/results-ice-dance-fnl-000100-.htm",
    "discipline_code": "FSK",
@@ -1949,6 +2031,7 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Women Single Skating - Short Program",
+   "event_status": "Finished",
    "time": "2022-02-15T18:00:00+08:00",
    "event_url": "../../../en/results/figure-skating/results-women-single-skating-qual-000100-.htm",
    "discipline_code": "FSK",
@@ -1956,6 +2039,7 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Women Single Skating - Free Skating",
+   "event_status": "Finished",
    "time": "2022-02-17T18:00:00+08:00",
    "event_url": "../../../en/results/figure-skating/results-women-single-skating-fnl-000100-.htm",
    "discipline_code": "FSK",
@@ -1963,6 +2047,7 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Pair Skating - Short Program",
+   "event_status": "Finished",
    "time": "2022-02-18T18:30:00+08:00",
    "event_url": "../../../en/results/figure-skating/results-pair-skating-qual-000100-.htm",
    "discipline_code": "FSK",
@@ -2169,6 +2254,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Slopestyle Qualification Run 1",
+   "event_status": "Finished",
    "time": "2022-02-14T10:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-slopestyle-qual.htm",
    "discipline_code": "FRS",
@@ -2176,6 +2262,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Slopestyle Qualification Run 2",
+   "event_status": "Finished",
    "time": "2022-02-14T11:01:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-slopestyle-qual.htm",
    "discipline_code": "FRS",
@@ -2183,6 +2270,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Women's Aerials Qualification 1",
+   "event_status": "Finished",
    "time": "2022-02-14T15:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-aerials-qual-000100-.htm",
    "discipline_code": "FRS",
@@ -2190,6 +2278,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Women's Aerials Qualification 2",
+   "event_status": "Finished",
    "time": "2022-02-14T15:45:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-aerials-qual-000200-.htm",
    "discipline_code": "FRS",
@@ -2197,6 +2286,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Women's Aerials Final 1",
+   "event_status": "Finished",
    "time": "2022-02-14T19:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-aerials-fnl-000100-.htm",
    "discipline_code": "FRS",
@@ -2204,6 +2294,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Women's Aerials Final 2",
+   "event_status": "Finished",
    "time": "2022-02-14T20:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-aerials-fnl-000200-.htm",
    "discipline_code": "FRS",
@@ -2211,6 +2302,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Slopestyle Final Run 1",
+   "event_status": "Finished",
    "time": "2022-02-15T09:30:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-slopestyle-fnl-.htm",
    "discipline_code": "FRS",
@@ -2218,6 +2310,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Slopestyle Final Run 2",
+   "event_status": "Finished",
    "time": "2022-02-15T09:57:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-slopestyle-fnl-.htm",
    "discipline_code": "FRS",
@@ -2225,6 +2318,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Slopestyle Final Run 3",
+   "event_status": "Finished",
    "time": "2022-02-15T10:24:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-slopestyle-fnl-.htm",
    "discipline_code": "FRS",
@@ -2232,6 +2326,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Men's Freeski Slopestyle Qualification Run 1",
+   "event_status": "Finished",
    "time": "2022-02-15T12:30:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-freeski-slopestyle-qual.htm",
    "discipline_code": "FRS",
@@ -2239,6 +2334,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Men's Freeski Slopestyle Qualification Run 2",
+   "event_status": "Finished",
    "time": "2022-02-15T13:33:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-freeski-slopestyle-qual.htm",
    "discipline_code": "FRS",
@@ -2246,6 +2342,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Men's Aerials Qualification 1",
+   "event_status": "Finished",
    "time": "2022-02-15T19:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-aerials-qual-000100-.htm",
    "discipline_code": "FRS",
@@ -2253,6 +2350,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Men's Aerials Qualification 2",
+   "event_status": "Finished",
    "time": "2022-02-15T19:45:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-aerials-qual-000200-.htm",
    "discipline_code": "FRS",
@@ -2260,6 +2358,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Men's Freeski Slopestyle Final Run 1",
+   "event_status": "Finished",
    "time": "2022-02-16T09:30:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-freeski-slopestyle-fnl-.htm",
    "discipline_code": "FRS",
@@ -2267,6 +2366,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Men's Freeski Slopestyle Final Run 2",
+   "event_status": "Finished",
    "time": "2022-02-16T09:58:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-freeski-slopestyle-fnl-.htm",
    "discipline_code": "FRS",
@@ -2274,6 +2374,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Men's Freeski Slopestyle Final Run 3",
+   "event_status": "Finished",
    "time": "2022-02-16T10:26:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-freeski-slopestyle-fnl-.htm",
    "discipline_code": "FRS",
@@ -2281,6 +2382,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Men's Aerials Final 1",
+   "event_status": "Finished",
    "time": "2022-02-16T19:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-aerials-fnl-000100-.htm",
    "discipline_code": "FRS",
@@ -2288,6 +2390,7 @@
 }{
    "location": "Genting Snow Park A & M Stadium",
    "event_stage": "Men's Aerials Final 2",
+   "event_status": "Finished",
    "time": "2022-02-16T20:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-aerials-fnl-000200-.htm",
    "discipline_code": "FRS",
@@ -2295,6 +2398,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Halfpipe Qualification Run 1",
+   "event_status": "Finished",
    "time": "2022-02-17T09:30:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-halfpipe-qual.htm",
    "discipline_code": "FRS",
@@ -2302,6 +2406,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Halfpipe Qualification Run 2",
+   "event_status": "Finished",
    "time": "2022-02-17T10:21:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-halfpipe-qual.htm",
    "discipline_code": "FRS",
@@ -2309,6 +2414,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Women's Ski Cross Seeding",
+   "event_status": "Finished",
    "time": "2022-02-17T11:30:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-ski-cross-seed.htm",
    "discipline_code": "FRS",
@@ -2316,6 +2422,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Men's Freeski Halfpipe Qualification Run 1",
+   "event_status": "Finished",
    "time": "2022-02-17T12:30:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-freeski-halfpipe-qual.htm",
    "discipline_code": "FRS",
@@ -2323,6 +2430,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Men's Freeski Halfpipe Qualification Run 2",
+   "event_status": "Finished",
    "time": "2022-02-17T13:21:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-freeski-halfpipe-qual.htm",
    "discipline_code": "FRS",
@@ -2330,6 +2438,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Women's Ski Cross 1/8 Finals",
+   "event_status": "Finished",
    "time": "2022-02-17T14:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-ski-cross-8fnl.htm",
    "discipline_code": "FRS",
@@ -2337,6 +2446,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Women's Ski Cross Quarterfinals",
+   "event_status": "Finished",
    "time": "2022-02-17T14:35:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-ski-cross-qfnl.htm",
    "discipline_code": "FRS",
@@ -2344,6 +2454,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Women's Ski Cross Semifinals",
+   "event_status": "Finished",
    "time": "2022-02-17T14:54:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-ski-cross-sfnl.htm",
    "discipline_code": "FRS",
@@ -2351,6 +2462,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Women's Ski Cross Small Final",
+   "event_status": "Finished",
    "time": "2022-02-17T15:10:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-ski-cross-fnl-.htm",
    "discipline_code": "FRS",
@@ -2358,12 +2470,14 @@
 }{
    "location": "After Small Final",
    "event_stage": "Genting Snow Park P & X Stadium",
+   "event_status": "Finished",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-ski-cross-fnl-.htm",
    "discipline_code": "FRS",
    "discipline": "Freestyle Skiing"
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Halfpipe Final Run 1",
+   "event_status": "Finished",
    "time": "2022-02-18T09:30:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-halfpipe-fnl-.htm",
    "discipline_code": "FRS",
@@ -2371,6 +2485,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Halfpipe Final Run 2",
+   "event_status": "Finished",
    "time": "2022-02-18T09:58:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-halfpipe-fnl-.htm",
    "discipline_code": "FRS",
@@ -2378,6 +2493,7 @@
 }{
    "location": "Genting Snow Park H & S Stadium",
    "event_stage": "Women's Freeski Halfpipe Final Run 3",
+   "event_status": "Finished",
    "time": "2022-02-18T10:25:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-women-s-freeski-halfpipe-fnl-.htm",
    "discipline_code": "FRS",
@@ -2385,6 +2501,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Men's Ski Cross Seeding",
+   "event_status": "Finished",
    "time": "2022-02-18T11:45:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-ski-cross-seed.htm",
    "discipline_code": "FRS",
@@ -2392,6 +2509,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Men's Ski Cross 1/8 Finals",
+   "event_status": "Finished",
    "time": "2022-02-18T14:00:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-ski-cross-8fnl.htm",
    "discipline_code": "FRS",
@@ -2399,6 +2517,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Men's Ski Cross Quarterfinals",
+   "event_status": "Finished",
    "time": "2022-02-18T14:35:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-ski-cross-qfnl.htm",
    "discipline_code": "FRS",
@@ -2406,6 +2525,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Men's Ski Cross Semifinals",
+   "event_status": "Finished",
    "time": "2022-02-18T14:54:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-ski-cross-sfnl.htm",
    "discipline_code": "FRS",
@@ -2413,6 +2533,7 @@
 }{
    "location": "Genting Snow Park P & X Stadium",
    "event_stage": "Men's Ski Cross Small Final",
+   "event_status": "Finished",
    "time": "2022-02-18T15:10:00+08:00",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-ski-cross-fnl-.htm",
    "discipline_code": "FRS",
@@ -2420,6 +2541,7 @@
 }{
    "location": "After Small Final",
    "event_stage": "Genting Snow Park P & X Stadium",
+   "event_status": "Finished",
    "event_url": "../../../en/results/freestyle-skiing/results-men-s-ski-cross-fnl-.htm",
    "discipline_code": "FRS",
    "discipline": "Freestyle Skiing"
@@ -2783,6 +2905,7 @@
 }{
    "location": "Wukesong Sports Centre",
    "event_stage": "Women's Play-offs Semifinals",
+   "event_status": "Finished",
    "time": "2022-02-14T12:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-women-sfnl-000100-.htm",
    "discipline_code": "IHO",
@@ -2790,6 +2913,7 @@
 }{
    "location": "Wukesong Sports Centre",
    "event_stage": "Women's Play-offs Semifinals",
+   "event_status": "Finished",
    "time": "2022-02-14T21:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-women-sfnl-000200-.htm",
    "discipline_code": "IHO",
@@ -2797,6 +2921,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Qualification Play-off",
+   "event_status": "Finished",
    "time": "2022-02-15T12:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-8fnl-000100-.htm",
    "discipline_code": "IHO",
@@ -2804,6 +2929,7 @@
 }{
    "location": "Wukesong Sports Centre",
    "event_stage": "Men's Qualification Play-off",
+   "event_status": "Finished",
    "time": "2022-02-15T12:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-8fnl-000200-.htm",
    "discipline_code": "IHO",
@@ -2811,6 +2937,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Qualification Play-off",
+   "event_status": "Finished",
    "time": "2022-02-15T16:40:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-8fnl-000300-.htm",
    "discipline_code": "IHO",
@@ -2818,6 +2945,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Qualification Play-off",
+   "event_status": "Finished",
    "time": "2022-02-15T21:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-8fnl-000400-.htm",
    "discipline_code": "IHO",
@@ -2825,6 +2953,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Play-offs Quarterfinals",
+   "event_status": "Finished",
    "time": "2022-02-16T12:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-qfnl-000100-.htm",
    "discipline_code": "IHO",
@@ -2832,6 +2961,7 @@
 }{
    "location": "Wukesong Sports Centre",
    "event_stage": "Men's Play-offs Quarterfinals",
+   "event_status": "Finished",
    "time": "2022-02-16T14:00:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-qfnl-000200-.htm",
    "discipline_code": "IHO",
@@ -2839,6 +2969,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Play-offs Quarterfinals",
+   "event_status": "Finished",
    "time": "2022-02-16T16:40:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-qfnl-000300-.htm",
    "discipline_code": "IHO",
@@ -2846,6 +2977,7 @@
 }{
    "location": "Wukesong Sports Centre",
    "event_stage": "Women's Bronze Medal Game",
+   "event_status": "Finished",
    "time": "2022-02-16T19:30:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-women-fnl-000200-.htm",
    "discipline_code": "IHO",
@@ -2853,6 +2985,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Play-offs Quarterfinals",
+   "event_status": "Finished",
    "time": "2022-02-16T21:30:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-qfnl-000400-.htm",
    "discipline_code": "IHO",
@@ -2860,6 +2993,7 @@
 }{
    "location": "Wukesong Sports Centre",
    "event_stage": "Women's Gold Medal Game",
+   "event_status": "Finished",
    "time": "2022-02-17T12:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-women-fnl-000100-.htm",
    "discipline_code": "IHO",
@@ -2867,6 +3001,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Play-offs Semifinals",
+   "event_status": "Finished",
    "time": "2022-02-18T12:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-sfnl-000100-.htm",
    "discipline_code": "IHO",
@@ -2874,6 +3009,7 @@
 }{
    "location": "National Indoor Stadium",
    "event_stage": "Men's Play-offs Semifinals",
+   "event_status": "Finished",
    "time": "2022-02-18T21:10:00+08:00",
    "event_url": "../../../en/results/ice-hockey/results-men-sfnl-000200-.htm",
    "discipline_code": "IHO",
@@ -3255,6 +3391,7 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Gundersen Large Hill/10km Official Training 3",
+   "event_status": "Finished",
    "time": "2022-02-14T14:00:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-large-hill-training-trno-0300sj-.htm",
    "discipline_code": "NCB",
@@ -3262,6 +3399,7 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Individual Gundersen Large Hill/10km, Ski Jumping Trial Round",
+   "event_status": "Finished",
    "time": "2022-02-15T15:00:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-individual-gundersen-large-hill-10km-fnl-tr01sj-.htm",
    "discipline_code": "NCB",
@@ -3269,6 +3407,7 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Individual Gundersen Large Hill/10km, Ski Jumping Competition Round",
+   "event_status": "Finished",
    "time": "2022-02-15T16:00:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-individual-gundersen-large-hill-10km-fnl-0001sj-.htm",
    "discipline_code": "NCB",
@@ -3276,13 +3415,15 @@
 }{
    "location": "Zhangjiakou National Cross-Country Skiing Centre",
    "event_stage": "Individual Gundersen Large Hill/10km, Cross-Country",
-   "time": "2022-02-15T19:00:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-15T18:30:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-individual-gundersen-large-hill-10km-fnl-0001cc-.htm",
    "discipline_code": "NCB",
    "discipline": "Nordic Combined"
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Gundersen Large Hill/10km Official Training 4",
+   "event_status": "Finished",
    "time": "2022-02-16T15:00:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-large-hill-training-trno-0400sj-.htm",
    "discipline_code": "NCB",
@@ -3290,6 +3431,7 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Team Gundersen Large Hill/4x5km, Ski Jumping Trial Round",
+   "event_status": "Finished",
    "time": "2022-02-17T15:00:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-team-gundersen-large-hill-4x5km-fnl-tr01sj-.htm",
    "discipline_code": "NCB",
@@ -3297,6 +3439,7 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Team Gundersen Large Hill/4x5km, Ski Jumping Competition Round",
+   "event_status": "Finished",
    "time": "2022-02-17T16:00:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-team-gundersen-large-hill-4x5km-fnl-0001sj-.htm",
    "discipline_code": "NCB",
@@ -3304,6 +3447,7 @@
 }{
    "location": "Zhangjiakou National Cross-Country Skiing Centre",
    "event_stage": "Team Gundersen Large Hill/4x5km, Cross-Country",
+   "event_status": "Finished",
    "time": "2022-02-17T19:00:00+08:00",
    "event_url": "../../../en/results/nordic-combined/results-team-gundersen-large-hill-4x5km-fnl-0001cc-.htm",
    "discipline_code": "NCB",
@@ -3567,6 +3711,7 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Women's 1500m - Quarterfinals",
+   "event_status": "Finished",
    "time": "2022-02-16T19:30:00+08:00",
    "event_url": "../../../en/results/short-track-speed-skating/results-women-s-1500m-qfnl.htm",
    "discipline_code": "STK",
@@ -3574,13 +3719,15 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Women's 1500m - Semifinals",
-   "time": "2022-02-16T20:15:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T20:19:00+08:00",
    "event_url": "../../../en/results/short-track-speed-skating/results-women-s-1500m-sfnl.htm",
    "discipline_code": "STK",
    "discipline": "Short Track Speed Skating"
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Men's 5000m Relay - Final B",
+   "event_status": "Finished",
    "time": "2022-02-16T20:32:00+08:00",
    "event_url": "../../../en/results/short-track-speed-skating/results-men-s-5000m-relay-fnl-.htm",
    "discipline_code": "STK",
@@ -3588,6 +3735,7 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Men's 5000m Relay - Final A",
+   "event_status": "Finished",
    "time": "2022-02-16T20:44:00+08:00",
    "event_url": "../../../en/results/short-track-speed-skating/results-men-s-5000m-relay-fnl-.htm",
    "discipline_code": "STK",
@@ -3595,14 +3743,16 @@
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Women's 1500m - Final B",
-   "time": "2022-02-16T21:11:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T21:14:00+08:00",
    "event_url": "../../../en/results/short-track-speed-skating/results-women-s-1500m-fnl-.htm",
    "discipline_code": "STK",
    "discipline": "Short Track Speed Skating"
 }{
    "location": "Capital Indoor Stadium",
    "event_stage": "Women's 1500m - Final A",
-   "time": "2022-02-16T21:18:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-16T21:19:00+08:00",
    "event_url": "../../../en/results/short-track-speed-skating/results-women-s-1500m-fnl-.htm",
    "discipline_code": "STK",
    "discipline": "Short Track Speed Skating"
@@ -3955,6 +4105,7 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Men's Team Trial Round for Competition",
+   "event_status": "Finished",
    "time": "2022-02-14T18:00:00+08:00",
    "event_url": "../../../en/results/ski-jumping/results-men-s-team-fnl-tr01sj-.htm",
    "discipline_code": "SJP",
@@ -3962,6 +4113,7 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Men's Team 1st Round",
+   "event_status": "Finished",
    "time": "2022-02-14T19:00:00+08:00",
    "event_url": "../../../en/results/ski-jumping/results-men-s-team-fnl-0001sj-.htm",
    "discipline_code": "SJP",
@@ -3969,7 +4121,8 @@
 }{
    "location": "Zhangjiakou National Ski Jumping Centre",
    "event_stage": "Men's Team Final Round",
-   "time": "2022-02-14T20:06:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-14T20:23:00+08:00",
    "event_url": "../../../en/results/ski-jumping/results-men-s-team-fnl-0002sj-.htm",
    "discipline_code": "SJP",
    "discipline": "Ski Jumping"
@@ -4387,6 +4540,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Women's Snowboard Big Air Qualification Run 1",
+   "event_status": "Finished",
    "time": "2022-02-14T09:30:00+08:00",
    "event_url": "../../../en/results/snowboard/results-women-s-snowboard-big-air-qual.htm",
    "discipline_code": "SBD",
@@ -4394,6 +4548,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Women's Snowboard Big Air Qualification Run 2",
+   "event_status": "Finished",
    "time": "2022-02-14T10:15:00+08:00",
    "event_url": "../../../en/results/snowboard/results-women-s-snowboard-big-air-qual.htm",
    "discipline_code": "SBD",
@@ -4401,6 +4556,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Women's Snowboard Big Air Qualification Run 3",
+   "event_status": "Finished",
    "time": "2022-02-14T11:00:00+08:00",
    "event_url": "../../../en/results/snowboard/results-women-s-snowboard-big-air-qual.htm",
    "discipline_code": "SBD",
@@ -4408,6 +4564,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Men's Snowboard Big Air Qualification Run 1",
+   "event_status": "Finished",
    "time": "2022-02-14T13:30:00+08:00",
    "event_url": "../../../en/results/snowboard/results-men-s-snowboard-big-air-qual.htm",
    "discipline_code": "SBD",
@@ -4415,6 +4572,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Men's Snowboard Big Air Qualification Run 2",
+   "event_status": "Finished",
    "time": "2022-02-14T14:15:00+08:00",
    "event_url": "../../../en/results/snowboard/results-men-s-snowboard-big-air-qual.htm",
    "discipline_code": "SBD",
@@ -4422,6 +4580,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Men's Snowboard Big Air Qualification Run 3",
+   "event_status": "Finished",
    "time": "2022-02-14T15:00:00+08:00",
    "event_url": "../../../en/results/snowboard/results-men-s-snowboard-big-air-qual.htm",
    "discipline_code": "SBD",
@@ -4429,6 +4588,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Women's Snowboard Big Air Final Run 1",
+   "event_status": "Finished",
    "time": "2022-02-15T09:30:00+08:00",
    "event_url": "../../../en/results/snowboard/results-women-s-snowboard-big-air-fnl-.htm",
    "discipline_code": "SBD",
@@ -4436,6 +4596,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Women's Snowboard Big Air Final Run 2",
+   "event_status": "Finished",
    "time": "2022-02-15T09:52:00+08:00",
    "event_url": "../../../en/results/snowboard/results-women-s-snowboard-big-air-fnl-.htm",
    "discipline_code": "SBD",
@@ -4443,13 +4604,15 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Women's Snowboard Big Air Final Run 3",
-   "time": "2022-02-15T10:15:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-15T10:17:00+08:00",
    "event_url": "../../../en/results/snowboard/results-women-s-snowboard-big-air-fnl-.htm",
    "discipline_code": "SBD",
    "discipline": "Snowboard"
 }{
    "location": "Big Air Shougang",
    "event_stage": "Men's Snowboard Big Air Final Run 1",
+   "event_status": "Finished",
    "time": "2022-02-15T13:00:00+08:00",
    "event_url": "../../../en/results/snowboard/results-men-s-snowboard-big-air-fnl-.htm",
    "discipline_code": "SBD",
@@ -4457,6 +4620,7 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Men's Snowboard Big Air Final Run 2",
+   "event_status": "Finished",
    "time": "2022-02-15T13:22:00+08:00",
    "event_url": "../../../en/results/snowboard/results-men-s-snowboard-big-air-fnl-.htm",
    "discipline_code": "SBD",
@@ -4464,7 +4628,8 @@
 }{
    "location": "Big Air Shougang",
    "event_stage": "Men's Snowboard Big Air Final Run 3",
-   "time": "2022-02-15T13:45:00+08:00",
+   "event_status": "Finished",
+   "time": "2022-02-15T13:47:00+08:00",
    "event_url": "../../../en/results/snowboard/results-men-s-snowboard-big-air-fnl-.htm",
    "discipline_code": "SBD",
    "discipline": "Snowboard"
@@ -4551,56 +4716,71 @@
 }{
    "location": "National Speed Skating Oval",
    "event_stage": "Women's Team Pursuit Semifinals",
+   "event_status": "Finished",
    "time": "2022-02-15T14:30:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-women-s-team-pursuit-sfnl.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
-   "location": ".",
-   "event_stage": "National Speed Skating Oval",
+   "location": "National Speed Skating Oval",
+   "event_stage": "Men's Team Pursuit Semifinals",
+   "event_status": "Finished",
+   "time": "2022-02-15T14:52:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-men-s-team-pursuit-sfnl.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
-   "location": ".",
-   "event_stage": "National Speed Skating Oval",
+   "location": "National Speed Skating Oval",
+   "event_stage": "Women's Team Pursuit Final D",
+   "event_status": "Finished",
+   "time": "2022-02-15T15:24:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-women-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
-   "location": ".",
-   "event_stage": "National Speed Skating Oval",
+   "location": "National Speed Skating Oval",
+   "event_stage": "Women's Team Pursuit Final C",
+   "event_status": "Finished",
+   "time": "2022-02-15T15:30:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-women-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
-   "location": ".",
-   "event_stage": "National Speed Skating Oval",
+   "location": "National Speed Skating Oval",
+   "event_stage": "Men's Team Pursuit Final D",
+   "event_status": "Finished",
+   "time": "2022-02-15T15:43:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-men-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
-   "location": ".",
-   "event_stage": "National Speed Skating Oval",
+   "location": "National Speed Skating Oval",
+   "event_stage": "Men's Team Pursuit Final C",
+   "event_status": "Finished",
+   "time": "2022-02-15T15:49:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-men-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
    "location": "National Speed Skating Oval",
    "event_stage": "Women's Team Pursuit Final B",
+   "event_status": "Finished",
    "time": "2022-02-15T16:22:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-women-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
-   "location": ".",
-   "event_stage": "National Speed Skating Oval",
+   "location": "National Speed Skating Oval",
+   "event_stage": "Women's Team Pursuit Final A",
+   "event_status": "Finished",
+   "time": "2022-02-15T16:28:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-women-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
    "discipline": "Speed Skating"
 }{
    "location": "National Speed Skating Oval",
    "event_stage": "Men's Team Pursuit Final B",
+   "event_status": "Finished",
    "time": "2022-02-15T16:41:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-men-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
@@ -4608,6 +4788,7 @@
 }{
    "location": "National Speed Skating Oval",
    "event_stage": "Men's Team Pursuit Final A",
+   "event_status": "Finished",
    "time": "2022-02-15T16:47:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-men-s-team-pursuit-fnl-.htm",
    "discipline_code": "SSK",
@@ -4615,6 +4796,7 @@
 }{
    "location": "National Speed Skating Oval",
    "event_stage": "Women's 1000m",
+   "event_status": "Finished",
    "time": "2022-02-17T16:30:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-women-s-1000m-fnl-000100-.htm",
    "discipline_code": "SSK",
@@ -4622,6 +4804,7 @@
 }{
    "location": "National Speed Skating Oval",
    "event_stage": "Men's 1000m",
+   "event_status": "Finished",
    "time": "2022-02-18T16:30:00+08:00",
    "event_url": "../../../en/results/speed-skating/results-men-s-1000m-fnl-000100-.htm",
    "discipline_code": "SSK",
